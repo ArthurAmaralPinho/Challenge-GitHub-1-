@@ -1,7 +1,7 @@
 # Second Part of GitHub Challenge in DevClub
 
 
-<img src="./assets/first HTML page.png" alt="First HTML page in DevClub">
+<img src="./assets/first HTML page.jpg" alt="First HTML page in DevClub">
 
 > Essa é uma imagem da primeira página HTML que fizemos no CodeClub!
 ### Projeto já conluído
